@@ -1,0 +1,16 @@
+[
+{
+  "modid": "multichunk",
+  "name": "MultiChunk",
+  "description": "",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TGMDevelopment"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,13 @@
+{
+  "package": "ga.matthewtgm.multichunk.mixins",
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "verbose": true,
+  "refmap": "mixins.multichunk.refmap.json",
+  "mixins": [
+    "world.MixinAnvilChunkLoader"
+  ],
+  "client": [
+    "world.MixinAnvilChunkLoader"
+  ]
+}
